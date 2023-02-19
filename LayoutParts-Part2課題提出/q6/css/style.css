@@ -29,7 +29,7 @@ li a{
 }
 nav li{
     list-style: none;
-    padding: 30px;
+    padding: 30px; /* それぞれの要素が包含されている場合はパディング */
 }
 .logo a{
     color: #f2ff7b;

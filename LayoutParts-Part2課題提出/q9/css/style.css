@@ -137,7 +137,6 @@ ul {
 
 .card-list:first-child{
     border-left: 1px solid #000000;
-    /* rightでやると影がつかない。なぜ？ */
  }
 
 li.card-list:hover{
